@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <p className='App-intro'>
-        Bye there!
+        It should work now.
       </p>
     </div>
   );
